@@ -1,0 +1,27 @@
+Copyright (c) 2026 HRIA Team
+
+Permission is granted to use, modify, and distribute this software for personal,
+educational, and commercial purposes, provided that proper attribution is given.
+
+Any use, redistribution, modification, or derivative work based on this project
+must clearly acknowledge the original HRIA Team and include links to the
+original repositories.
+
+Required attribution:
+
+"Based on HRIA (HR Intelligence & Bias Analysis), originally developed by the HRIA Team."
+
+Original repositories:
+- https://github.com/MajoRodri/HRIA
+- https://github.com/adryeli/hria_streamlit
+
+The attribution and repository links must be visible in at least one of the following:
+- Project documentation
+- Repository README
+- User-facing credits
+- About page
+- Project website
+
+Removal of attribution or repository references is not permitted.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
