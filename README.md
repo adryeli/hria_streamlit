@@ -240,6 +240,22 @@ The loader automatically detects aliases and infers missing role labels when nec
 
 ---
 
+ Repository Architecture
+
+The platform is intentionally split across two repositories:
+
+| Repository | Purpose |
+|---|---|
+| MajoRodri/HRIA | EDA notebooks, datasets, and analytical pipeline |
+| adryeli/hria_streamlit | Streamlit deployment — live application only |
+
+Why two repos?
+The production deployment (hria_streamlit) is isolated from the research data and notebooks.
+This means the live URL has no direct access to raw datasets, analytical code, or sensitive
+market data — reducing exposure in case of unauthorized access attempts.
+
+---
+
 ## 👥 Contributors
 
 | Member                                                | Role                      |
