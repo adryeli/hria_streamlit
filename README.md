@@ -18,7 +18,9 @@ HRIA enables organizations to evaluate career pathways, design market-aligned tr
 
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/570OBE56TkA/maxresdefault.jpg)](https://www.youtube.com/watch?v=570OBE56TkA)
+<a href="https://www.youtube.com/watch?v=570OBE56TkA" target="_blank">
+  <img src="https://img.youtube.com/vi/570OBE56TkA/maxresdefault.jpg" width="100%"/>
+</a>
 
 ---
 
