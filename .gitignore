@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#csv
+data/data_maestro_completo.csv
+data/data_roles_completo.csv
