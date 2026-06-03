@@ -4,6 +4,9 @@ A data-driven workforce intelligence platform developed for DataTalent Solutions
 
 HRIA enables organizations to evaluate career pathways, design market-aligned training programs, identify placement opportunities, assess competition levels, and generate evidence-based recommendations for workforce development.
 
+Play our interactive dashboard --> https://hria-dts.streamlit.app/
+
+
 ## 📑 Table of Contents
 
 - [🎥 Demo Video](#-demo-video)
